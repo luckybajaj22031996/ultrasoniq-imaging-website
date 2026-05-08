@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ultrasoniqimaging.in/sitemap.xml
+Sitemap: https://www.ultrasoniqimaging.in/sitemap.xml
