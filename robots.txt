@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ultrasoniq-imaging.netlify.app/sitemap.xml
